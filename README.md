@@ -1,16 +1,20 @@
-### Hi there 👋
+# ✌ Hi, I'm Guilherme!
 
-<!--
-**guimendesfe/guimendesfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a 20-year-old front-end developer based in **Recife, Brazil**.
+- Currently graduated in Systems Analysis and Development at UniFBV
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-End
+- Mainly code in **JavaScript, HTML, CSS and Typescript**.
+- Proficient in **React**, and **Angular**.
+
+### Back-End
+- Mainly code in **Java**.
+- Proficient in **Node.js**.
+
+## Database
+- Proficient in **MySQL** 
+
+## Follow me around the internet
+- 💼 **[LinkedIn](https://www.linkedin.com/in/guilherme-mendes-ferreira/)**
