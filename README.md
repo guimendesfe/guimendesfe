@@ -11,7 +11,7 @@
 
 ### Back-End
 - Mainly code in **Java**.
-- Proficient in **Node.js**.
+- Proficient in **Node.js**, **C#**
 
 ## Database
 - Proficient in **MySQL** 
