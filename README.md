@@ -1,6 +1,6 @@
 # ✌ Hi, I'm Guilherme!
 
-- I'm a 20-year-old front-end developer based in **Recife, Brazil**.
+- I'm a 21-year-old front-end developer based in **Recife, Brazil**.
 - Currently graduated in Systems Analysis and Development at UniFBV.
 
 ## 💻 Tech Stack
